@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Alvarado
-- 👀 I’m interested in software development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning C++ and SwiftUI.
 - 📫 How to reach me luisalvarado@csu.fullerton.edu
 
