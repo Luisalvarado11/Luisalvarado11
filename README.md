@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Alvarado
 - 👀 I’m interested in Front-End and Mobile Development.
-- 🌱 I’m currently learning C++ and SwiftUI.
+- 🌱 I’m currently learning front-end development
 - 📫 How to reach me luisalvarado@csu.fullerton.edu
 
 <!---
